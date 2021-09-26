@@ -1,6 +1,8 @@
 # iPhone-text-message-extractor
 Extract text messages to CSV from an unencrypted iPhone backup
 
+It was created for use in Windows, but it would be pretty easy to modify for use in other operating systems.
+
 This is a small tool/script I created for a friend.  I figured I should share it if anyone else needs this.
 
 ## Usage
